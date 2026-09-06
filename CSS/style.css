@@ -61,14 +61,15 @@ section .container .preparation{
   background-color: hsl(330, 100%, 98%);
   margin: 30px auto 0;
   border-radius: var(--radius);
-  color: hsl(332, 51%, 32%);
 }
 section .container .preparation h3{
   padding: 30px 30px 5px;
   margin: 0;
+  color: hsl(332, 51%, 32%);
 }
 section .container .preparation ul{
   margin: 0;
+  color: hsl(332, 51%, 32%);
 }
 section .container .preparation li{
   padding:10px 10px;
