@@ -21,8 +21,6 @@ The goal of this project is to build a simple, responsive recipe page for an ome
 
 Through this challenge, I reinforced the importance of using a main `container` to structure the page layout effectively. I also practiced using CSS variables for easier design management and applying browser `prefixes` for better compatibility. Overall, the challenge was straightforward and a great way to solidify fundamentals.
 
----
-
 ##  Author
 - GitHub - [Ahmad Samer](https://github.com/ahmadsamersam-dev)
 - Frontend Mentor - [Ahmad Samer](https://www.frontendmentor.io/profile/ahmadsamersam-dev)
