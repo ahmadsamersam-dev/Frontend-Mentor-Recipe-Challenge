@@ -56,22 +56,22 @@ header .container figure p{
 }
 /* header end */
 /* preparation start */
-section .container .preparation{
+ .preparation{
   max-width: var(--max-width);
   background-color: hsl(330, 100%, 98%);
   margin: 30px auto 0;
   border-radius: var(--radius);
 }
-section .container .preparation h3{
+ .preparation h3{
   padding: 30px 30px 5px;
   margin: 0;
   color: hsl(332, 51%, 32%);
 }
-section .container .preparation ul{
+ .preparation ul{
   margin: 0;
   color: hsl(332, 51%, 32%);
 }
-section .container .preparation li{
+ .preparation li{
   padding:10px 10px;
 }
 .preparation li p {
