@@ -18,8 +18,10 @@ The goal of this project is to build a simple, responsive recipe page for an ome
 - Flexbox
 - Mobile-first workflow
 
-###  What I learned
+### What I learned
+
 Through this challenge, I reinforced the importance of using a main `container` to structure the page layout effectively. I also practiced using CSS variables for easier design management and applying browser `prefixes` for better compatibility. Overall, the challenge was straightforward and a great way to solidify fundamentals.
+
 ---
 
 ##  Author
