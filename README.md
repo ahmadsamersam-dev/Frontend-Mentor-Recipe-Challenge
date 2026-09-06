@@ -45,4 +45,4 @@ Through this challenge, I reinforced the importance of using a main `container` 
 
 ##  Author / المبرمج
 - GitHub - [Ahmad Samer](https://github.com/ahmadsamersam-dev)
-- Frontend Mentor - [@your-username](https://www.frontendmentor.io/profile/ahmadsamersam-dev)
+- Frontend Mentor - [Ahmad Samer](https://www.frontendmentor.io/profile/ahmadsamersam-dev)
