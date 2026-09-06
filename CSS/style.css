@@ -19,7 +19,7 @@ h1,h2{
   font-family: 'Young Serif', serif;
 }
 p, h3,span,ol,td{
-  font-family: Outfit;
+  font-family: 'Outfit',sans-serif;
 }
 *{
   box-sizing: border-box;
@@ -73,12 +73,12 @@ section .container .preparation ul{
 section .container .preparation li{
   padding:10px 10px;
 }
+.preparation li p {
+  color: var(--text-stone);
+}
 .preparation li p span{
   color: var(--text-lighter);
   font-weight: 600;
-}
-.preparation li p {
-  color: var(--text-stone);
 }
 /* preparation end */
 /* Ingredients start */
