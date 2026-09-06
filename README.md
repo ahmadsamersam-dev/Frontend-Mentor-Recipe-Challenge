@@ -5,8 +5,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ##  English Section
 
 ###  Links
-- **Live Site URL:** [https://ahmadsamersam-dev.github.io/Frontend-Mentor-Recipe-Challenge/]
-- **Solution URL:** [https://www.frontendmentor.io/solutions/my-solution-for-the-recipe-page-challenge-Rk9zkqjVAW]
+- **Live Site URL:** [View Live Site](https://ahmadsamersam-dev.github.io/Frontend-Mentor-Recipe-Challenge/)
+- **Solution URL:** [View Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/my-solution-for-the-recipe-page-challenge-Rk9zkqjVAW)
+
 
 ###  Overview
 The goal of this project is to build a simple, responsive recipe page for an omelette, including sections for ingredients, instructions, and nutrition facts.
