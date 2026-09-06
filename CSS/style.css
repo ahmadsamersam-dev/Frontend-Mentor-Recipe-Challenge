@@ -161,6 +161,7 @@ tbody tr:last-child{
     padding-left: var(--mobile-padding);
   }
   header .container figure img{
+    border-radius: 0;
   }
   header .container figure {
     margin:0;
